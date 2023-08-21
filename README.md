@@ -1,7 +1,3 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo16913
-Fork on GitHub4782
 <h1 align="center">Hi 👋, I'm Dang Phuong</h1>
 <h3 align="center">A passionate backend developer from VietNam</h3>
 
