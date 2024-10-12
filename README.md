@@ -5,7 +5,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/nguyendangphuong31102002@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nguyendangphuong31102002@gmail.com" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/phuong-nguyen-dang-2a561b296" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="phuong-nguyen-dang-2a561b296" height="30" width="40" /></a>
 <a href="https://fb.com/ndp.3110" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ndp.3110" height="30" width="40" /></a>
 </p>
 
