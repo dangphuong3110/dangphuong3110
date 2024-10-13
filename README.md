@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dang Phuong</h1>
-<h3 align="center">A passionate web developer from VietNam</h3>
+<h3 align="center">A passionate Web Developer from VietNam</h3>
 
-- 📫 How to reach me **nguyendangphuong31102002@gmail.com**
+- 📫 How to reach me **phuongndev031@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
